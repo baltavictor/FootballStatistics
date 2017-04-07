@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="score">30dp</dimen>
+    <dimen name="plus">40dp</dimen>
+    <dimen name="statistics">20dp</dimen>
+    <dimen name="shotsText">20dp</dimen>
+</resources>

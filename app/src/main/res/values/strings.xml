@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Football Statistics Counter</string>
+    <string name="teamA">Barcelona</string>
+    <string name="teamB">Bayern</string>
+    <string name="line">-</string>
+    <string name="shots">shots on target</string>
+    <string name="shotsOff">shots off target</string>
+    <string name="corners">corners</string>
+    <string name="offsides">offsides</string>
+    <string name="fouls">fouls</string>
+    <string name="yellowCards"> yellow cards</string>
+    <string name="redCards"> red cards</string>
+    <string name="kicks">goal kicks</string>
+
+
+
+</resources>
